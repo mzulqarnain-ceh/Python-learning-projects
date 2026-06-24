@@ -1,0 +1,57 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "options": ["Paris", "London", "Berlin", "Madrid"],
+        "answer": "Paris"
+    },
+    {
+        "question": "What is the largest planet in our solar system?",
+        "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+        "answer": "Jupiter"
+    },
+    {
+        "question": "What is the chemical symbol for gold?",
+        "options": ["Ag", "Au", "Fe", "Cu"],
+        "answer": "Au"
+    },
+    {
+        "question": "What is the currency of Japan?",
+        "options": ["Dollar", "Euro", "Yen", "Pound"],
+        "answer": "Yen"
+    },
+    {
+        "question": "What is the largest mammal on Earth?",
+        "options": ["Elephant", "Blue Whale", "Giraffe", "Lion"],
+        "answer": "Blue Whale"
+    },
+    {
+        "question": "What is the smallest country in the world?",
+        "options": ["Vatican City", "Monaco", "Nauru", "Tuvalu"],
+        "answer": "Vatican City"
+    },
+    {
+        "question": "What is the most spoken language in the world?",
+        "options": ["English", "Mandarin Chinese", "Spanish", "Hindi"],
+        "answer": "Mandarin Chinese"
+    },
+    {
+        "question": "What is the largest desert in the world?",
+        "options": ["Sahara Desert", "Arabian Desert", "Gobi Desert", "Antarctic Desert"],
+        "answer": "Antarctic Desert"
+    },
+    {
+        "question": "What is the highest mountain in the world?",
+        "options": ["K2", "Mount Everest", "Kangchenjunga", "Lhotse"],
+        "answer": "Mount Everest"
+    },
+    {
+        "question": "What is the longest river in the world?",
+        "options": ["Nile River", "Amazon River", "Yangtze River", "Mississippi River"],
+        "answer": "Amazon River"
+    },
+    {
+        "question": "What is the largest ocean in the world?",
+        "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+        "answer": "Pacific Ocean"
+    }
+]
