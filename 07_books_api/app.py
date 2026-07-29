@@ -77,3 +77,14 @@ def delete_book(id):
 if __name__=="__main__":
     create_table()
     app.run(debug=True)
+
+
+
+# Book add krny k lye
+# $body = @{ title = "Python Basics"; author = "Ali" } | ConvertTo-Json
+# Invoke-RestMethod -Method Post -Uri http://127.0.0.1:5000/books -ContentType "application/json" -Body $body
+# book update krny k lye, id change kr lena jis ko update krna ha aur title aur name b set kr lena
+# $body = @{ title = "New Book Name"; author = "New Author" } | ConvertTo-Json
+# Invoke-RestMethod -Method Put -Uri http://127.0.0.1:5000/books/1 -ContentType "application/json" -Body $body
+# book delete krnay k lye,id change kr lena 
+# Invoke-RestMethod -Method Delete -Uri http://127.0.0.1:5000/books/1
